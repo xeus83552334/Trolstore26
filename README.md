@@ -2,23 +2,21 @@ Trolstore26
 
 An experimental iOS installation project based on components from TrollInstallerX-iOS26.
 
-Compatibility
+Verified Compatibility
 
-* iOS 26.1: Tested by the maintainer.
-* Other iOS versions: Compatibility is unconfirmed unless explicitly documented.
+* iPhone XS — iOS 15.0–26.1: Tested by the maintainer.
+* Other devices: Compatibility not yet confirmed.
 
-Testing
+Testing Methodology
 
-The maintainer reports successful testing on iOS 26.1. Results may vary depending on device model, iOS build, and system configuration.
+The maintainer reports testing the project on an iPhone XS across multiple iOS versions, including upgrade and downgrade testing.
 
-Disclaimer
+Important Notes
 
-This project is experimental software. Compatibility claims refer only to versions and devices that have actually been tested.
+Compatibility claims apply to the tested device and software configurations. Results on other devices and iOS builds may differ.
+
+Simulator testing is documented separately from testing on physical hardware.
 
 Credits
 
-Based on components from TrollInstallerX-iOS26. Please review the upstream license and preserve all required notices.
-
-Bug Reports
-
-When reporting an issue, include the device model, exact iOS version and build, installation method, and relevant logs.
+Based on components from TrollInstallerX-iOS26. See the upstream repository for licensing and attribution requirements.
