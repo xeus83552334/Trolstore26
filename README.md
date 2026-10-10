@@ -1,22 +1,24 @@
 Trolstore26
 
-An experimental iOS installer project based on TrollInstallerX-iOS26.
-
-This fork adapts selected components of the upstream project for experimentation with iOS 26.1.
-
-Status: Experimental. Compatibility and installation behavior must be verified on each target iOS version and device.
+An experimental iOS installation project based on components from TrollInstallerX-iOS26.
 
 Compatibility
 
-* iOS 26.1: Experimental; report only results confirmed through testing.
-* Other iOS versions: Not confirmed unless explicitly documented.
+* iOS 26.1: Tested by the maintainer.
+* Other iOS versions: Compatibility is unconfirmed unless explicitly documented.
+
+Testing
+
+The maintainer reports successful testing on iOS 26.1. Results may vary depending on device model, iOS build, and system configuration.
 
 Disclaimer
 
-This project is provided for research and testing purposes. Building the application successfully does not guarantee that installation, signing, or persistence will work on a target device.
+This project is experimental software. Compatibility claims refer only to versions and devices that have actually been tested.
 
-Credits and License
+Credits
 
-This project incorporates code from TrollInstallerX-iOS26. See the upstream repository and the applicable license for attribution and redistribution requirements.
+Based on components from TrollInstallerX-iOS26. Please review the upstream license and preserve all required notices.
 
-Changes specific to Trolstore26 should be documented separately from upstream functionality.
+Bug Reports
+
+When reporting an issue, include the device model, exact iOS version and build, installation method, and relevant logs.
